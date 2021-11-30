@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODO List
 
-este es el proyecto inicial para crear aplicaciones utilizando webpack
+Este es el proyecto de un To do List
 
 ### Notas:
 
